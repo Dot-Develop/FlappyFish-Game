@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e09f1845</color>
+    <color name="colorPrimaryDark">#d6ba2557</color>
+    <color name="colorAccent">#bcc62044</color>
+    <color name="textInfoColor">#f9610505</color>
+    <color name="TipsTextView">#f9be0909</color>
+    <color name="TheFlappyFish">#f99c0000</color>
+    <color name="YourScore">#fbf5d325</color>
+    <color name="BestScore">#fb1eff16</color>
+    <color name="holo_blue_light">#e328d7ea</color>
+    <color name="exitButtonBackground">#e7af1414</color>
+    <color name="exitButtonText">#fbffffff</color>
+    <color name="pauseMenu">#ffffff</color>
+    <color name="resumeButton">#bc2c6ed9</color>
+    <color name="blue_light">#eb0e91ce</color>
+
+
+
+
+
+</resources>
